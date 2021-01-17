@@ -1,1 +1,1 @@
-primer archivo de testo en git
+primer archivo de texto en git
